@@ -93,9 +93,9 @@ def create_checkout():
     tier = data['tier']
     
     prices = {
-        'starter': 'price_starter',
-        'pro': 'price_pro',
-        'enterprise': 'price_enterprise'
+        'starter': 'price_1T3PytKCA2Z6Hs0P3ZS77wWp',
+        'pro': 'price_1T3Pz1KCA2Z6Hs0PV4uil7LE',
+        'enterprise': 'price_1T3Pz8KCA2Z6Hs0PpGvcDwS2'
     }
     
     try:
